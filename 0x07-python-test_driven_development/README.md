@@ -1,9 +1,10 @@
-n - Test-driven development
+# Test-driven development
+
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 In this project, I started practicing test-driven development using `docstring`and `unittest` in Python.
 
-## Tests :heavy_check_mark:
+## Tests :heavy_check_mark
 
 * [tests](./tests): Folder of test files. Includes both Holberton-provided ones as well as the following eight independently-developed:
   * [0-add_integer.txt](./tests/0-add_integer.txt)
@@ -15,7 +16,7 @@ In this project, I started practicing test-driven development using `docstring`a
   * [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
   * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
 
-## Function Prototypes :floppy_disk:
+## Function Prototypes :floppy_disk
 
 Prototypes for functions written in this project:
 
@@ -30,7 +31,7 @@ Prototypes for functions written in this project:
 | `101-lazy_matrix_mul.py` | `def lazy_matrix_mul(m_a, m_b):`             |
 | `102-python.c`           | `void print_python_string(PyObject *p);`     |
 
-## Tasks :page_with_curl:
+## Tasks :page_with_curl
 
 * **0. Integers addition**
   * [0-add_integer.py](./0-add_integer.py): Python function that returns the integer addition of two numbers.
